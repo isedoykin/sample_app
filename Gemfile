@@ -23,6 +23,7 @@ gem 'activerecord'
 gem 'actionview'
 gem 'actionmailer'
 gem 'tzinfo-data'
+gem 'minitest'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false
